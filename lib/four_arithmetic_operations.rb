@@ -1,6 +1,7 @@
 # frozen_string_literal: true
 
-require_relative "four_arithmetic_operations/version"
+require 'four_arithmetic_operations/version'
+require 'four_arithmetic_operations/scanner'
 
 module FourArithmeticOperations
   class Error < StandardError; end
