@@ -1,6 +1,7 @@
 # frozen_string_literal: true
 
-require "four_arithmetic_operations"
+require 'four_arithmetic_operations'
+require 'pry'
 
 RSpec.configure do |config|
   # Enable flags like --only-failures and --next-failure
