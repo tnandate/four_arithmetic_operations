@@ -3,7 +3,7 @@
 module FourArithmeticOperations
   module Nodes
     class Node
-      include Enumrable
+      include Enumerable
 
       attr_reader :left
 
