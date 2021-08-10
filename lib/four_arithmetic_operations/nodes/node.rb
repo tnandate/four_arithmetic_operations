@@ -46,19 +46,19 @@ module FourArithmeticOperations
       end
     end
 
-    def Sub < Binary
+    class Sub < Binary
       def type
         :SUB
       end
     end
 
-    def Mul < Binary
+    class Mul < Binary
       def type
         :Mul
       end
     end
 
-    def Div < Binary
+    class Div < Binary
       def type
         :DIV
       end

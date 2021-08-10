@@ -2,7 +2,7 @@
 
 require 'racc'
 require 'four_arithmetic_operations/version'
-require 'four_arithmetic_operations/node'
+require 'four_arithmetic_operations/nodes/node'
 require 'four_arithmetic_operations/scanner'
 require 'four_arithmetic_operations/parser'
 
