@@ -54,7 +54,7 @@ module FourArithmeticOperations
 
     class Mul < Binary
       def type
-        :Mul
+        :MUL
       end
     end
 
